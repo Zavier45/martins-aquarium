@@ -1,0 +1,82 @@
+body {
+    background-color: #68cfe3;
+    border: solid 15px #4f0da6;
+
+}
+.entire-body {
+    display: flex;
+    justify-content: space-evenly;
+}
+.title {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.right-side {
+    display: flex;
+    align-items: flex-start;
+    
+}
+.fish-title {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.fish-container {
+    border: solid salmon 5px;
+    background-color: aquamarine;
+    width: auto;
+    height: auto;
+    margin-left: -200px;
+    margin-top: 25px;
+    padding: 15px;
+}
+.fish__image {
+    padding: 10px;
+    width: 30%;
+    height: auto;
+    
+}
+.heckle {
+    padding: 10px;
+    width: 30%;
+    height: 500px;
+}
+p {
+    padding: 3px;
+    border: darkgreen dashed 2px;
+}
+ul {
+    list-style: none;
+}
+.quotes {
+    font-size: large;
+    border: solid 2px #0c0470;
+    width: auto;
+    height: auto;
+    padding: 5px;
+    margin: 10px 2px;
+    background-color: #e07875;
+}
+
+.locations {
+    background-color: wheat;
+    font-weight: 300;
+    margin-bottom: 5px;
+    padding: 4px;
+    width: 45%;
+    text-align: center;
+}
+.location_list {
+    text-align: left;
+    border: solid 2px #ab070f;
+}
+
+.right-side {
+    border: 2px #ab070f solid; 
+    padding: 4px;
+    width: 450px;
+    height: 30%;
+    background-color: #8bd991;  
+
+}
